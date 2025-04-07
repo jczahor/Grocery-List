@@ -1,0 +1,45 @@
+html{
+    background-color: paleturquoise;
+
+}
+
+h1{
+    color:blanchedalmond;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
+th{
+    background-color: salmon;
+    border: 3px solid blue;
+
+}
+
+.boxesColors{
+    background-color:rgb(196, 152, 238)
+    
+}
+
+.shopping-list-pic{
+   border: 5px dotted black;
+
+   margin: right;
+
+   padding: 30px;
+
+}
+
+#baking-ingredients{
+    height: 300px;
+    width: 600px;
+    margin: 40px;
+    float:right;
+}
+
+#smoked-salmon-bagel{
+    height: 500px;
+    width: 300px;
+    float:right;
+}
+
